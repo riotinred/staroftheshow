@@ -1,1 +1,3 @@
-![https://cdn.discordapp.com/attachments/1330384634588041309/1364808912561246270/Untitled713_20250423204212.png?ex=680b04d9&is=6809b359&hm=3652d82c1e73d9b4edeb44d52b1b3c61dcb5cd016426349942c2e6904256c393&](https://cdn.discordapp.com/attachments/1330384634588041309/1364808912561246270/Untitled713_20250423204212.png?ex=680b04d9&is=6809b359&hm=3652d82c1e73d9b4edeb44d52b1b3c61dcb5cd016426349942c2e6904256c393&)
+    ![https://img.shields.io/badge/sweet-vampire-green?style=flat&logo=filedotio&logoColor=lightgreen&label=%E2%99%A1&labelColor=darkgreen&color=forestgreen](https://img.shields.io/badge/sweet-vampire-green?style=flat&logo=filedotio&logoColor=lightgreen&label=%E2%99%A1&labelColor=darkgreen&color=forestgreen)
+
+![Untitled713_20250423204212](https://github.com/user-attachments/assets/f2e4fbcf-290a-459a-8976-d6c11b810dd0)
